@@ -19,3 +19,8 @@ C. Contoh Penggunaan
 2. Upload gambar wajah
 3. Sistem akan menampilkan prediksi suku
 4. Simpan hasil atau bandingkan kemiripan wajah
+
+Developer
+Alqan Nazra
+Daffa Atha
+Yulina Angraeni
